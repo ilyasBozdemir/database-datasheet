@@ -76,4 +76,6 @@ ve de veri türlerine dikkat etmek veri türlerine göz atmak için
 ![database olusturuldu](assests/update.png)
 
 
+gruplama  için yani birden fazla tabloyu tek yerde göstermek için
 
+![database olusturuldu](assests/gruplama.png)
