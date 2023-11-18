@@ -1,5 +1,16 @@
 # SQL – Veritabanı Dersleri
 
+## tablo olusturma
+
+```sql
+
+CREATE TABLE tablo_adi (
+    deger_1 INT PRIMARY KEY,
+    deger_2 VARCHAR(50) NOT NULL
+);
+```
+
+
 ## Insert Komutu (Tabloya Veri Eklemek)
 
 Veritabanımızdaki tabloya veri eklemek için `INSERT INTO` komutu kullanılır. Kullanımı aşağıdaki gibidir. Eğer sadece belirli alanlara veri ekleyip diğer kısımları boş bırakmak istiyorsak, bunun için kullanmamız gereken `INSERT INTO` kalıbıdır. 

@@ -7,5 +7,12 @@
 - 4.  [İlişkili Veritabanları ve İlişki Türleri](İlişkili-Veritabanları-ve-İlişki-Türleri.md)
 
 - 5.  [ÖZET](ozet.md)
-- 5.  [ÖZET 2](ozet-2.md)
-- 5.  [ÖZET 3](ozet-3.md)
+- 6.  [ÖZET 2](ozet-2.md)
+- 7.  [ÖZET 3](ozet-3.md)
+
+
+- 8.  [SQL SERVER üzerinde uygulama](uygulama.md)
+- 9. [ornek veritabanı](ornek-data.sql)
+
+
+not: 8. maddede ki tüm özeti uygulamalı göstermektedir.
