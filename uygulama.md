@@ -9,7 +9,7 @@ veritabanı adı girme
 
 olusan veritabanı görsel :
 
-![database olusturuldu](/assests/database olusturuldu.png)
+![database olusturuldu](/assests/databaseolusturuldu.png)
 
 ## Adım 2: tablo  olusturma 
 
